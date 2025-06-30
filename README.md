@@ -1,6 +1,7 @@
 # GenAI Ad Variation Generator
 
 This project is my submission for the Powersmy.biz GenAI Engineer (Image/Video) Intern Challenge. It is a web application that generates ad variations (images, and soon video) based on product information using generative AI models.
+(https://github.com/ayushh8/hiring_challenge_genai/tree/ad-variation-generator)
 
 ---
 
